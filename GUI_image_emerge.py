@@ -1,3 +1,6 @@
+# 원본 코드 출처 : https://youtu.be/bKPIcoou9N8
+
+
 from tkinter import*
 import tkinter.ttk as ttk
 from tkinter import filedialog 
