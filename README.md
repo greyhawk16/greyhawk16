@@ -11,7 +11,7 @@
 
 [캡스톤논문](https://github.com/mokonut/CNUPropeller)
 
-손글씨를 인식하는 AI
+[손글씨를 인식하는 AI](https://github.com/greyhawk16/SaDaBird_06/tree/main)
 
 # 교육 이수사항
 AI 코칭스터디 1기
