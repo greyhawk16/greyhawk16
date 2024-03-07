@@ -7,9 +7,9 @@
 
 1. 웹쉘 분석기 [->](https://github.com/greyhawk16/webshell_detector)
 
-2. AWS 워게임 [->](https://github.com/greyhawk16/CloudRudolf)
+2. CloudRudolf [->](https://github.com/greyhawk16/CloudRudolf)
 
-3. 프로펠러 공력계산 프로그램 [->](https://github.com/greyhawk16/CNUPropeller)
+3. CNUPropeller [->](https://github.com/greyhawk16/CNUPropeller)
 
 4. 손글씨를 인식하는 AI [->](https://github.com/greyhawk16/SaDaBird_06)
 
