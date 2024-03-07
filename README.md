@@ -5,13 +5,13 @@
 
 # 참여한 프로젝트
 
-[웹쉘 분석기](https://github.com/greyhawk16/webshell_detector)
+1. 웹쉘 분석기 [->](https://github.com/greyhawk16/webshell_detector)
 
-[AWS 워게임](https://github.com/xorverbin/CloudRudolf)
+2. AWS 워게임 [->](https://github.com/greyhawk16/CloudRudolf)
 
-[캡스톤논문](https://github.com/mokonut/CNUPropeller)
+3. 프로펠러 공력계산 프로그램 [->](https://github.com/greyhawk16/CNUPropeller)
 
-[손글씨를 인식하는 AI](https://github.com/greyhawk16/SaDaBird_06/tree/main)
+4. 손글씨를 인식하는 AI [->](https://github.com/greyhawk16/SaDaBird_06)
 
 # 교육 이수사항
 AI 코칭스터디 1기
