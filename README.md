@@ -6,7 +6,8 @@
 # 참여한 프로젝트
 
 ## 웹쉘 분석기 [->](https://github.com/greyhawk16/webshell_detector)
-![image](https://github.com/greyhawk16/greyhawk16/assets/97436830/d6802c67-a6c2-4abb-be1b-4092711dcfe5)
+<img src="https://github.com/greyhawk16/greyhawk16/assets/97436830/1fe1d44d-a8dc-475b-a421-a040fd709d84" width="700"/>
+
 
    - 개요: 여러가지 기준을 이용하여, 주어진 파일이 웹쉘인지 판단해주는 웹서비스 입니다.
      
