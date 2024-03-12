@@ -5,7 +5,7 @@
 
 # 참여한 프로젝트
 
-## 웹쉘 분석기 [->](https://github.com/greyhawk16/webshell_detector)
+## 1. 웹쉘 분석기 [->](https://github.com/greyhawk16/webshell_detector)
 <img src="https://github.com/greyhawk16/greyhawk16/assets/97436830/1fe1d44d-a8dc-475b-a421-a040fd709d84" width="700"/>
 
 
@@ -13,7 +13,7 @@
      
    - 사용한 기술: `Python` `Flask` `Nginx` `Docker` `docker-compose`
 
-## CloudRudolf [->](https://github.com/greyhawk16/CloudRudolf)
+## 2. CloudRudolf [->](https://github.com/greyhawk16/CloudRudolf)
 
 <img src="https://github.com/greyhawk16/greyhawk16/assets/97436830/0344fcb9-fc91-42a2-bc67-87f59dbe1739" width="700"/>
 
@@ -23,7 +23,7 @@
 
    - 기여한 점: `Command injection`, `SSTI` 취약점을 주제로 한 워게임 문제 제작
 
-## CNUPropeller [->](https://github.com/greyhawk16/CNUPropeller)
+## 3. CNUPropeller [->](https://github.com/greyhawk16/CNUPropeller)
 
 <img width="700" alt="image" src="https://github.com/greyhawk16/greyhawk16/assets/97436830/85991174-5b9a-48b6-983f-1aba58ea21c3">
 
@@ -33,13 +33,13 @@
 
    - 기여한 점: 사용자가 지정한 단면 형상을 화면에 표시하고, 관련된 수치들을 저장하는 부분을 담당 
    
-## 코딩 테스트 문제 풀이집 [->](https://github.com/greyhawk16/coding_test_repo)
+## 4. 코딩 테스트 문제 풀이집 [->](https://github.com/greyhawk16/coding_test_repo)
 
    - 개요: 프로그래머스 등 여러 웹사이트에서 풀어본 코딩테스트 문제 별 풀이 및 소스코드를 정리한 리포지토리입니다.
      
    - 사용한 기술: `Python`
 
-## 손글씨를 인식하는 AI [->](https://github.com/greyhawk16/SaDaBird_06)
+## 5. 손글씨를 인식하는 AI [->](https://github.com/greyhawk16/SaDaBird_06)
 
 <img width="700" alt="image" src="https://github.com/greyhawk16/greyhawk16/assets/97436830/21ded6db-de23-46f5-8be3-3beda97de80f">
 
