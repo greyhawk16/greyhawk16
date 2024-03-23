@@ -23,16 +23,6 @@
      
    - 기여한 점: `Command injection`, `SSTI` 취약점을 주제로 한 워게임 문제 및 Terraform 코드 제작
 
-## 3. CNUPropeller [->](https://github.com/greyhawk16/CNUPropeller)
-
-<img width="700" alt="image" src="https://github.com/greyhawk16/greyhawk16/assets/97436830/85991174-5b9a-48b6-983f-1aba58ea21c3">
-
-   - 개요: 사용자가 원하는 프로펠러를 생성하고, 역학적 특성을 분석할 수 있는 프로그램 입니다.
-     
-   - 사용한 기술: `Matlab`
-
-   - 기여한 점: 사용자가 지정한 단면 형상을 화면에 표시하고, 관련된 수치들을 저장하는 부분을 담당 
-
 # 교육 이수사항
 
 - 화이트햇스쿨 1기
