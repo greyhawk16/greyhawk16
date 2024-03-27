@@ -32,3 +32,8 @@
 # 수상 이력
 
 - 2022 CNU Engineering Fair SW-IT Contest 코딩대회 비전공자 부문 동상
+
+
+# Contact
+- github: https://github.com/greyhawk16
+- 블로그: https://developing-kestrel.tistory.com/
