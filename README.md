@@ -41,6 +41,9 @@
         
       - Coursera 주관
            + demo
+             
+      - Udemy 주관
+           + demo
 
 # 수상 이력
 
