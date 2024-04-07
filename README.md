@@ -23,7 +23,7 @@
      
    - 사용한 기술:![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
      
-   - 기여한 점: `Command injection`, `SSTI` 취약점을 주제로 한 워게임 문제 및 Terraform 코드 제작
+   - 기여 사항: `Command injection`, `SSTI` 취약점을 주제로 한 워게임 문제 및 Terraform 코드 제작
 
 # 교육 이수사항
 
