@@ -53,7 +53,10 @@
            + Introduction to Cybersecurity Foundations
              
       - Udemy 주관
-           + demo
+           + Terraform for the Absolute Beginners with Labs
+           + Kubernetes for the Absolute Beginners - Hands-on
+           + Docker for the Absolute Beginner - Hands On - DevOps
+
 
 # 수상 이력
 
@@ -63,9 +66,9 @@
 
    1. [프로그래머스 PCCE Lv.4](https://certi.programmers.co.kr/result/share/5055?utm_campaign=certi-issuance-share&utm_content=share&utm_medium=social&utm_source=community)
 
-# 기
+# 기타
    1. 블로그: https://developing-kestrel.tistory.com/
       - DreamHack의 워게임 풀이 모음: https://developing-kestrel.tistory.com/category/DreamHack
-      - 코딩테스트 문제 풀이 모음: https://developing-kestrel.tistory.com/category/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8
+      - 코딩테스트 문제 풀이 모음: https://developing-kestrel.tistory.com/category/CodingTest
         
    2. GitHub: https://github.com/greyhawk16
