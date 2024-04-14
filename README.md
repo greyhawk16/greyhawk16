@@ -57,6 +57,9 @@
            + Terraform for the Absolute Beginners with Labs
            + Kubernetes for the Absolute Beginners - Hands-on
            + Docker for the Absolute Beginner - Hands On - DevOps
+             
+      - AWS skill builder
+           + Exam Prep Standard Course: AWS Certified Cloud Practitioner
 
 
 # 수상 이력
