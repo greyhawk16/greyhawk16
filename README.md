@@ -36,11 +36,21 @@
       - 주관 기관: 네이버 커넥트재단
    
    3. 기타
+      - TryHackMe
+           + Introduction to Cyber Security
+           + Pre Security
+        
       - 노마드 코더 주관
-           + demo
+           + 코코아톡 클론코딩
+           + 바닐라 JS로 크롬 앱 만들기
+           + [풀스택] 유튜브 클론코딩
+           + Flutter 로 웹툰 앱 만들기
         
       - Coursera 주관
-           + demo
+           + Understanding and Visualizing Data with Python
+           + Introduction to Machine Learning
+           + The Structured Query Language (SQL)
+           + Introduction to Cybersecurity Foundations
              
       - Udemy 주관
            + demo
