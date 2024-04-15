@@ -27,6 +27,14 @@
      
    - 기여 사항: `Command injection`, `SSTI` 취약점을 주제로 한 워게임 문제 및 Terraform 코드 제작
 
+# 수상 이력
+
+   1. 2022 CNU Engineering Fair SW-IT Contest 코딩대회 비전공자 부문 동상
+      
+
+# 자격증
+
+   1. [프로그래머스 PCCE Lv.4](https://certi.programmers.co.kr/result/share/5055?utm_campaign=certi-issuance-share&utm_content=share&utm_medium=social&utm_source=community)
 # 교육 이수사항
 
    1. 화이트햇 스쿨 1기
@@ -62,17 +70,6 @@
              
       - AWS skill builder
            + Exam Prep Standard Course: AWS Certified Cloud Practitioner
-
-
-# 수상 이력
-
-   1. 2022 CNU Engineering Fair SW-IT Contest 코딩대회 비전공자 부문 동상
-      
-
-# 자격증
-
-   1. [프로그래머스 PCCE Lv.4](https://certi.programmers.co.kr/result/share/5055?utm_campaign=certi-issuance-share&utm_content=share&utm_medium=social&utm_source=community)
-      
 
 # 기타
    1. 블로그: https://developing-kestrel.tistory.com/
