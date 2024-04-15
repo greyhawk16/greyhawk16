@@ -29,12 +29,12 @@
 
 # 수상 이력
 
-   1. 2022 CNU Engineering Fair SW-IT Contest 코딩대회 비전공자 부문 동상
+   + 2022 CNU Engineering Fair SW-IT Contest 코딩대회 비전공자 부문 동상
       
 
 # 자격증
 
-   1. [PCCE Lv.4](https://certi.programmers.co.kr/result/share/5055?utm_campaign=certi-issuance-share&utm_content=share&utm_medium=social&utm_source=community)
+   + [PCCE Lv.4](https://certi.programmers.co.kr/result/share/5055?utm_campaign=certi-issuance-share&utm_content=share&utm_medium=social&utm_source=community)
 # 교육 이수사항
 
    1. 화이트햇 스쿨 1기
