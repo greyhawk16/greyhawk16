@@ -45,7 +45,7 @@
       - 교육 기간: 2022/01 ~ 2022/02
       - 주관 기관: 네이버 커넥트재단
    
-   3. 기타
+   3. 단기 교육 
       - TryHackMe
            + Introduction to Cyber Security
            + Pre Security
@@ -71,7 +71,7 @@
       - AWS skill builder
            + Exam Prep Standard Course: AWS Certified Cloud Practitioner
 
-# 기타
+# Contact Info
    1. 블로그: https://developing-kestrel.tistory.com/
       - DreamHack의 워게임 풀이 모음: https://developing-kestrel.tistory.com/category/DreamHack
       - 코딩테스트 문제 풀이 모음: https://developing-kestrel.tistory.com/category/CodingTest
