@@ -17,7 +17,7 @@
 
 ## 2. CloudRudolf [->](https://github.com/greyhawk16/CloudRudolf)
 
-<img src="https://github.com/greyhawk16/greyhawk16/assets/97436830/0344fcb9-fc91-42a2-bc67-87f59dbe1739" width="700"/>
+<img width="700" alt="스크린샷 2024-04-15 오후 5 07 11" src="https://github.com/greyhawk16/greyhawk16/assets/97436830/f6222946-2a81-4116-b056-bf62bdd6cc34">
 
    - 교육과정: 화이트햇 스쿨 1기
      
