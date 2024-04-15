@@ -6,7 +6,8 @@
 # 참여 프로젝트
 
 ## 1. 웹쉘 분석기 [->](https://github.com/greyhawk16/webshell_detector)
-<img width="700" alt="스크린샷 2024-04-15 오전 8 44 16" src="https://github.com/greyhawk16/greyhawk16/assets/97436830/31eb1a8a-425d-4020-a895-e8e0521fecfb">
+
+<img width="700" alt="스크린샷 2024-04-15 090719" src="https://github.com/greyhawk16/greyhawk16/assets/97436830/2ac14176-68c3-4bc9-92aa-19c8772ecb8c">
 
 
    - 교육과정: 화이트햇 스쿨 1기
@@ -66,10 +67,12 @@
 # 수상 이력
 
    1. 2022 CNU Engineering Fair SW-IT Contest 코딩대회 비전공자 부문 동상
+      
 
 # 자격증
 
    1. [프로그래머스 PCCE Lv.4](https://certi.programmers.co.kr/result/share/5055?utm_campaign=certi-issuance-share&utm_content=share&utm_medium=social&utm_source=community)
+      
 
 # 기타
    1. 블로그: https://developing-kestrel.tistory.com/
