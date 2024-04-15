@@ -34,7 +34,7 @@
 
 # 자격증
 
-   1. [프로그래머스 PCCE Lv.4](https://certi.programmers.co.kr/result/share/5055?utm_campaign=certi-issuance-share&utm_content=share&utm_medium=social&utm_source=community)
+   1. [PCCE Lv.4](https://certi.programmers.co.kr/result/share/5055?utm_campaign=certi-issuance-share&utm_content=share&utm_medium=social&utm_source=community)
 # 교육 이수사항
 
    1. 화이트햇 스쿨 1기
