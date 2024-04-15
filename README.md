@@ -7,7 +7,8 @@
 
 ## 1. 웹쉘 분석기 [->](https://github.com/greyhawk16/webshell_detector)
 
-<img width="700" alt="스크린샷 2024-04-15 090719" src="https://github.com/greyhawk16/greyhawk16/assets/97436830/2ac14176-68c3-4bc9-92aa-19c8772ecb8c">
+<img width="700" alt="스크린샷 2024-04-15 오후 4 24 52" src="https://github.com/greyhawk16/greyhawk16/assets/97436830/a9631fe5-53b9-4ff6-8f9b-801c38bc636f">
+
 
 
    - 교육과정: 화이트햇 스쿨 1기
