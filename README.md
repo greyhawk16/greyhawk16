@@ -67,6 +67,7 @@
            + Terraform for the Absolute Beginners with Labs
            + Kubernetes for the Absolute Beginners - Hands-on
            + Docker for the Absolute Beginner - Hands On - DevOps
+           + Jenkins, From Zero To Hero: Become a DevOps Jenkins Master
              
       - AWS skill builder
            + Exam Prep Standard Course: AWS Certified Cloud Practitioner
