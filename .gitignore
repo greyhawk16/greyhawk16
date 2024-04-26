@@ -1,3 +1,4 @@
 *.pdf
 *.pem
 .ENV
+.DS_STORE
