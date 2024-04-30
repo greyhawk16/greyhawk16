@@ -50,20 +50,20 @@
            + Introduction to Cyber Security
            + Pre Security
         
-      - 노마드 코더 주관
+      - 노마드 코더
            + 코코아톡 클론코딩
            + 바닐라 JS로 크롬 앱 만들기
            + [풀스택] 유튜브 클론코딩
            + Dart 시작하기
            + Flutter 로 웹툰 앱 만들기
         
-      - Coursera 주관
+      - Coursera
            + Understanding and Visualizing Data with Python
            + Introduction to Machine Learning
            + The Structured Query Language (SQL)
            + Introduction to Cybersecurity Foundations
              
-      - Udemy 주관
+      - Udemy
            + Terraform for the Absolute Beginners with Labs
            + Kubernetes for the Absolute Beginners - Hands-on
            + Docker for the Absolute Beginner - Hands On - DevOps
