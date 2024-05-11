@@ -5,7 +5,7 @@
 
 # 참여 프로젝트
 
-## 1. 웹쉘 분석기 [->](https://github.com/greyhawk16/webshell_detector)
+## 1. Webshell_detector [->](https://github.com/greyhawk16/webshell_detector)
 
 <img width="700" alt="스크린샷 2024-04-15 오후 4 38 52" src="https://github.com/greyhawk16/greyhawk16/assets/97436830/5a28a3e7-ccf5-4bda-a396-545b292251ce">
 
@@ -41,7 +41,7 @@
       - 교육 기간: 2023/09 ~ 2024/03
       - 주관 기관: 한국정보기술연구원
 
-   2. AI 코칭스터디 1기
+   2. AI BASIC 코칭스터디 1기
       - 교육 기간: 2022/01 ~ 2022/02
       - 주관 기관: 네이버 커넥트재단
    
