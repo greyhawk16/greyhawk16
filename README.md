@@ -43,7 +43,7 @@
    
    2. 단기 교육 
       - 네이버 커넥트재단
-         + AI BASIC 코칭스터디 1기
+         + 부스트코스 AI BASIC 코칭스터디 1기
       - TryHackMe
            + Introduction to Cyber Security
            + Pre Security
