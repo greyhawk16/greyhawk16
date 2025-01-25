@@ -9,8 +9,6 @@
 
 ## 1. G-Root
 
-<img width="700" src="./images/G-root 탐지 예시.png">
-
    - 교육과정: Best of the Best 13기
    - 개요: 행위 기반의 루트킷 탐지 솔루션 입니다.
 
