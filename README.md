@@ -12,7 +12,8 @@
    - 교육과정: Best of the Best 13기
    - 개요: 행위 기반의 루트킷 탐지 솔루션 입니다.
 
-   - 사용한 기술: ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Static Badge](https://img.shields.io/badge/WinDBG-black)
+   - 사용한 기술: ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![WinDBG](https://img.shields.io/badge/WinDBG-black?style=for-the-badge)
+
 
 
 ## 2. Webshell_detector [->](https://github.com/greyhawk16/webshell_detector)
@@ -37,6 +38,16 @@
    - 사용한 기술:![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
      
    - 기여 사항: `Command injection`, `SSTI` 취약점을 주제로 한 워게임 문제 및 Terraform 코드 제작
+
+## 4. CNUPropeller [->](https://github.com/greyhawk16/CNUPropeller)
+
+   - 교육과정: 충남대학교 항공우주공학과
+     
+   - 개요: MALTAB을 활용하여 제작한 프로펠러의 공력 해석용 프로그램 입니다. 
+     
+   - 사용한 기술:![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)
+
+     
 
 # 수상 이력
 
