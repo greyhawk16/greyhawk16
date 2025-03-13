@@ -15,6 +15,26 @@
    - 사용한 기술: ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![WinDBG](https://img.shields.io/badge/WinDBG-black?style=for-the-badge)
 
 
+## . 라즈베리파이용 보안 설정 스크립트 [->](https://github.com/greyhawk16/RaspberryPi4_initializer)
+
+   - 교육과정: Best of the Best 13기
+   - 개요: 브루트포스 공격을 막기 위한 환경 설정
+
+   - 사용한 기술: shell
+
+## . AWS Role 정리용 프로그램 [->](https://github.com/greyhawk16/role_cleaner)
+
+   - 교육과정: Best of the Best 13기
+   - 개요: 생성된 지 오래된 AWS IAM Role을 보여주는 프로그램
+
+   - 사용한 기술: C++
+
+## . 개발톤 프로젝트 [->](https://github.com/greyhawk16/devtone2024)
+
+   - 교육과정: Best of the Best 13기
+   - 개요: 극한의 상황에서, 상식을 벗어나는 선택지가 주어지는 밸런스 게임
+
+   - 사용한 기술: ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## 2. Webshell_detector [->](https://github.com/greyhawk16/webshell_detector)
 
