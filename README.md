@@ -14,8 +14,6 @@
 
    - 사용한 기술: ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![WinDBG](https://img.shields.io/badge/WinDBG-black?style=for-the-badge)
 
-
-
 ## 2. Webshell_detector [->](https://github.com/greyhawk16/webshell_detector)
 
 <img width="700" alt="스크린샷 2024-04-15 오후 4 38 52" src="https://github.com/greyhawk16/greyhawk16/assets/97436830/5a28a3e7-ccf5-4bda-a396-545b292251ce">
@@ -47,7 +45,22 @@
      
    - 사용한 기술:![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)
 
-     
+
+## 5. 개발톤 프로젝트 [->](https://github.com/greyhawk16/devtone2024)
+
+   - 교육과정: Best of the Best 13기
+   - 개요: 극한의 상황에서, 상식을 벗어나는 선택지가 주어지는 밸런스 게임
+
+   - 사용한 기술: ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+
+
+## 6. 라즈베리파이용 보안 설정 스크립트 [->](https://github.com/greyhawk16/RaspberryPi4_initializer)
+
+   - 교육과정: Best of the Best 13기
+   - 개요: 브루트포스 공격을 막기 위한 환경 설정
+
+   - 사용한 기술: ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+
 
 # 수상 이력
 
