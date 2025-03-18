@@ -57,7 +57,7 @@
 ## 6. 라즈베리파이용 보안 설정 스크립트 [->](https://github.com/greyhawk16/RaspberryPi4_initializer)
 
    - 교육과정: Best of the Best 13기
-   - 개요: 브루트포스 공격을 막기 위한 환경 설정
+   - 개요: 라즈베리파이를 브루트포스 공격으로부터 보호하기 위한 환경을 자동으로 구성하는 쉘 스크립트
 
    - 사용한 기술: ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
