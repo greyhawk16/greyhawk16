@@ -83,35 +83,8 @@
    3. 단기 교육 
       - 네이버 커넥트재단
          + 부스트코스 AI BASIC 코칭스터디 1기
-      - TryHackMe
-           + Introduction to Cyber Security
-           + Pre Security
-        
-      - 노마드 코더
-           + 코코아톡 클론코딩
-           + 바닐라 JS로 크롬 앱 만들기
-           + [풀스택] 유튜브 클론코딩
-           + Dart 시작하기
-           + Flutter 로 웹툰 앱 만들기
-        
-      - Coursera
-           + Understanding and Visualizing Data with Python
-           + Introduction to Machine Learning
-           + The Structured Query Language (SQL)
-           + Introduction to Cybersecurity Foundations
-             
-      - Udemy
-           + Terraform for the Absolute Beginners with Labs
-           + Kubernetes for the Absolute Beginners - Hands-on
-           + Docker for the Absolute Beginner - Hands On - DevOps
-           + Jenkins, From Zero To Hero: Become a DevOps Jenkins Master
-             
-      - AWS skill builder
-           + Exam Prep Standard Course: AWS Certified Cloud Practitioner
 
 # Contact Info
    1. 블로그: https://developing-kestrel.tistory.com
-      - DreamHack 워게임 풀이 모음: https://developing-kestrel.tistory.com/category/DreamHack
-      - 코딩테스트 문제 풀이 모음: https://developing-kestrel.tistory.com/category/CodingTest
-        
+   
    2. GitHub: https://github.com/greyhawk16
