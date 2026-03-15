@@ -8,7 +8,7 @@
    - 교육과정: Best of the Best 13기
    - 개요: 행위 기반의 루트킷 탐지 솔루션 입니다.
 
-   - 사용한 기술: ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![WinDBG](https://img.shields.io/badge/WinDBG-black?style=for-the-badge)
+   - 사용한 기술: ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## 2. Webshell_detector [->](https://github.com/greyhawk16/webshell_detector)
 
