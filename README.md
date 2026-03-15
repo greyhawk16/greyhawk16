@@ -14,8 +14,6 @@
 
 <img width="700" alt="스크린샷 2024-04-15 오후 4 38 52" src="https://github.com/greyhawk16/greyhawk16/assets/97436830/5a28a3e7-ccf5-4bda-a396-545b292251ce">
 
-
-   - 교육과정: 화이트햇 스쿨 1기
    - 개요: 여러가지 기준을 이용하여, 주어진 파일이 웹쉘인지 판단해주는 웹서비스 입니다.
      
    - 사용한 기술: ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
