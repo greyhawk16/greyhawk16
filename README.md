@@ -42,15 +42,7 @@
    - 사용한 기술:![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)
 
 
-## 5. 개발톤 프로젝트 [->](https://github.com/greyhawk16/devtone2024)
-
-   - 교육과정: Best of the Best 13기
-   - 개요: 극한의 상황에서, 상식을 벗어나는 선택지가 주어지는 밸런스 게임
-
-   - 사용한 기술: ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-
-
-## 6. 라즈베리파이용 보안 설정 스크립트 [->](https://github.com/greyhawk16/RaspberryPi4_initializer)
+## 5. 라즈베리파이용 보안 설정 스크립트 [->](https://github.com/greyhawk16/RaspberryPi4_initializer)
 
    - 개요: 라즈베리파이를 브루트포스 공격으로부터 보호하기 위한 환경을 자동으로 구성하는 쉘 스크립트
 
@@ -65,6 +57,8 @@
 # 자격증
 
    + [PCCE Lv.4](https://certi.programmers.co.kr/result/share/5055?utm_campaign=certi-issuance-share&utm_content=share&utm_medium=social&utm_source=community)
+   + AWS Certified Cloud Practitioner
+     
 # 교육 이수사항
 
    1. Best of the Best 13기
