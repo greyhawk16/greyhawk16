@@ -54,7 +54,7 @@
 
 # 자격증
 
-![OSCP+](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/186354592)   ![OSCP](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/186354899)   <img width="200" height="200" alt="aws-certified-cloud-practitioner" src="https://github.com/user-attachments/assets/7659bea4-7abd-4e23-ad1c-894af78c920a" />
+![OSCP+](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/186354592)   ![OSCP](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/186354899)   <img src="img/aws-certified-cloud-practitioner.png" width="199" height="199">
 
    + OSCP/OSCP+
    + AWS Certified Cloud Practitioner

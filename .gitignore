@@ -3,3 +3,4 @@
 .ENV
 .DS_STORE
 /images
+/.vscode
