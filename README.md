@@ -1,3 +1,27 @@
+# 자격증
+
+![OSCP+](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/186354592)   ![OSCP](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/186354899)   <img src="img/aws-certified-cloud-practitioner.png" width="198" height="198">
+
+   + OSCP/OSCP+
+   + AWS Certified Cloud Practitioner
+   + [PCCE Lv.4](https://certi.programmers.co.kr/result/share/5055?utm_campaign=certi-issuance-share&utm_content=share&utm_medium=social&utm_source=community)
+
+     
+# 교육 이수사항
+
+   1. Best of the Best 13기
+      - 교육 기간: 2024/07 ~ 2025/03
+      - 주관 기관: 한국정보기술연구원
+   
+   2. 화이트햇 스쿨 1기
+      - 교육 기간: 2023/09 ~ 2024/03
+      - 주관 기관: 한국정보기술연구원
+   
+   3. 단기 교육 
+      - 네이버 커넥트재단
+         + 부스트코스 AI BASIC 코칭스터디 1기
+
+
 # 참여 프로젝트
 
 ## 1. G-Root
@@ -48,29 +72,6 @@
 
    + 2022 CNU Engineering Fair SW-IT Contest 코딩대회 비전공자 부문 동상
       
-
-# 자격증
-
-![OSCP+](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/186354592)   ![OSCP](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/186354899)   <img src="img/aws-certified-cloud-practitioner.png" width="198" height="198">
-
-   + OSCP/OSCP+
-   + AWS Certified Cloud Practitioner
-   + [PCCE Lv.4](https://certi.programmers.co.kr/result/share/5055?utm_campaign=certi-issuance-share&utm_content=share&utm_medium=social&utm_source=community)
-
-     
-# 교육 이수사항
-
-   1. Best of the Best 13기
-      - 교육 기간: 2024/07 ~ 2025/03
-      - 주관 기관: 한국정보기술연구원
-   
-   2. 화이트햇 스쿨 1기
-      - 교육 기간: 2023/09 ~ 2024/03
-      - 주관 기관: 한국정보기술연구원
-   
-   3. 단기 교육 
-      - 네이버 커넥트재단
-         + 부스트코스 AI BASIC 코칭스터디 1기
 
 # Contact Info
    1. 블로그: https://developing-kestrel.tistory.com
