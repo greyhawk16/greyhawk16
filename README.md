@@ -1,6 +1,3 @@
-# 인적 사항
-
-
 # 참여 프로젝트
 
 ## 1. G-Root
@@ -54,7 +51,7 @@
 
 # 자격증
 
-![OSCP+](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/186354592)   ![OSCP](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/186354899)   <img src="img/aws-certified-cloud-practitioner.png" width="199" height="199">
+![OSCP+](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/186354592)   ![OSCP](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/186354899)   <img src="img/aws-certified-cloud-practitioner.png" width="198" height="198">
 
    + OSCP/OSCP+
    + AWS Certified Cloud Practitioner
