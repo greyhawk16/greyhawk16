@@ -2,7 +2,7 @@
 
 ![OSCP+](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/186354592)   ![OSCP](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/186354899)   <img src="img/aws-certified-cloud-practitioner.png" width="198" height="198">
 
-   + OSCP/OSCP+
+   + OSCP, OSCP+
    + AWS Certified Cloud Practitioner
    + [PCCE Lv.4](https://certi.programmers.co.kr/result/share/5055?utm_campaign=certi-issuance-share&utm_content=share&utm_medium=social&utm_source=community)
 
