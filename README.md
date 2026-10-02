@@ -2,9 +2,9 @@
 
 ![OSCP+](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/186354592)   ![OSCP](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/186354899)   <img src="img/aws-certified-cloud-practitioner.png" width="198" height="198">
 
-   + OSCP, OSCP+
-   + AWS Certified Cloud Practitioner
-   + [PCCE Lv.4](https://certi.programmers.co.kr/result/share/5055?utm_campaign=certi-issuance-share&utm_content=share&utm_medium=social&utm_source=community)
+   + [OSCP](https://credentials.offsec.com/f37bb4c4-3957-4751-a28c-3d84c1033010), [OSCP+](https://credentials.offsec.com/a9db542e-eca6-4926-baf3-2128560b8c27)
+   + [AWS Certified Cloud Practitioner](https://www.credly.com/badges/a644516f-8abd-4a7c-90e4-8391bb799208/)
+   + [PCCE Lv.4](https://certi.programmers.co.kr/result/share/24040102BXPGMS?utm_campaign=certi-issuance-share&utm_content=share&utm_medium=social&utm_source=community)
 
      
 # 교육 이수사항
