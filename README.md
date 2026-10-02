@@ -77,3 +77,5 @@
    1. 블로그: https://developing-kestrel.tistory.com
    
    2. GitHub: https://github.com/greyhawk16
+   
+   3. Linkedin: https://www.linkedin.com/in/%EC%A4%80%ED%97%8C-%EC%96%91-a7a631336/
